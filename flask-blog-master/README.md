@@ -1,5 +1,5 @@
 # 基于flask的博客系统搭建
-- 1.部署的具体网址为http://www.unrealblue.xin/, 360安全浏览器和ie浏览器不兼容
+- 1. 360安全浏览器和ie浏览器不兼容
 - 2.下载代码到本地，先建立一个virtualenv坏境，我用的是pycharm软件，直接可以建立flask坏境,如下图所示:
 ![image](https://github.com/happyte/flask-blog/blob/master/images/1.png)
 - 3.激活virtualenv环境，`. venv/bin/activate`。安装所有requirements.txt中的模块,`pip install -r requirements.txt`。因为网络的原因可能会其中某几个会安装失败，多安装几次就好。
